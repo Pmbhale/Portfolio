@@ -26,7 +26,7 @@ It highlights my **skills, projects, resume, and contact details** in a clean an
 ---
 
 ## 📸 Preview
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f0cb6576-dd8d-42f7-8881-848638ea7e49" />
+<img width="1348" height="638" alt="image" src="https://github.com/user-attachments/assets/2eace6ab-11ef-46d2-9e99-beca1c2c727d" />
 
 
 ---
